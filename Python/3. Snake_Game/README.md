@@ -20,5 +20,5 @@ These projects are beginner-friendly and focus on logic building and visualizati
 
 **Screenshot**
 <p align="center">
-  <img src="Images/demo.png"/>
+  <img src="Image/demo.png"/>
 </p>
