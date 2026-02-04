@@ -2,6 +2,7 @@
 
 This Python projects created using the **Turtle module** and **Object-Oriented Programming (OOP)** concepts.  
 These projects are beginner-friendly and focus on logic building and visualization.
+This Python-based Flash Card app helps users learn French vocabulary by displaying a French word, waiting three seconds, and flipping to the English translation
 
 ---
 
@@ -10,6 +11,7 @@ These projects are beginner-friendly and focus on logic building and visualizati
 - flash card project
 - File Handling
 - Error Handling
+- Pandas for data management
 ---
 
 **Screenshot**
